@@ -1,4 +1,4 @@
-AndroidApp
+JbApp v1.0
 ==========
 
-华夏家博App
+JbApp
